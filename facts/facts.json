@@ -1,454 +1,168 @@
 {
   "facts": [
     {
-      "content": "If the server takes too long to judge a tourist solution, the server receives a TLE verdict.",
-      "author": "diksown",
-      "timestamp": "2021-10-28T00:04:41.143174"
+      "content": "저는 좋은 게임에 돈을 쓰는것을 전혀 아까워 하지 않습니다.",
+      "author": "gravekper"
     },
     {
-      "content": "Tourist can speak in C++.",
-      "author": "diksown",
-      "timestamp": "2021-10-28T00:04:41.143174"
+      "content": "여러분 제가 게임을 못하는게 아니고 게임이 어려운거에요.",
+      "author": "gravekper"
     },
     {
-      "content": "Once, tourist sent all his solutions at once and took the first place immediately. 30 seconds later, his solutions were judged.",
-      "author": "diksown",
-      "timestamp": "2021-10-28T00:04:41.143174"
+      "content": "시청자가 모르는 게임을 하면 날 아만보라고 욕할 수 없겠지 흐흐",
+      "author": "gravekper"
     },
     {
-      "content": "Tourist solved a NP-Complete problem once. In constant time.",
-      "author": "diksown",
-      "timestamp": "2021-10-28T00:04:41.143174"
+      "content": "문제가 발생했다구요? 답은 '서드 위시'다.",
+      "author": "gravekper"
     },
     {
-      "content": "For tourist, dark mode or light mode doesn't matter, as he usually codes with his eyes closed.",
-      "author": "diksown",
-      "timestamp": "2021-10-28T00:04:41.143174"
+      "content": "킬각이야? 뭐 괜찮아요.",
+      "author": "gravekper"
     },
     {
-      "content": "Tourist once solved an n \u2264 10^5 problem using only boolean data types.",
-      "author": "diksown",
-      "timestamp": "2021-10-28T00:04:41.143174"
+      "content": "치야짱과 거품목욕 하고싶다.",
+      "author": "gravekper"
     },
     {
-      "content": "Tourist receives \"Accepted\" verdicts in heuristic competitions.",
-      "author": "diksown",
-      "timestamp": "2021-10-28T00:04:41.143174"
+      "content": "브란은 쓰기 너무 브란해",
+      "author": "gravekper"
     },
     {
-      "content": "When tourist hosts a contest, there aren't any queue delays, because he judges all submissions himself by looking at the source code.",
-      "author": "diksown",
-      "timestamp": "2021-10-28T00:04:41.143174"
+      "content": "얼마나 브란하냐면 브란 브론즈비어드만큼 브란합니다.",
+      "author": "gravekper"
     },
     {
-      "content": "Tourist once enumerated all prime numbers. Backwards.",
-      "author": "diksown",
-      "timestamp": "2021-10-28T00:04:41.143174"
+      "content": "지불(지옥의 불길)을 사용하려면 뭘 지불해야하죠?",
+      "author": "gravekper"
     },
     {
-      "content": "Tourist's randomized solutions don't have a probability of fail.",
-      "author": "diksown",
-      "timestamp": "2021-10-28T00:04:41.143174"
+      "content": "방향제는 어떤 방향으로 뿌려야 하지?",
+      "author": "gravekper"
     },
     {
-      "content": "When tourist creates an interactive problem, he doesn't write a interactor program. He interacts with the contestants code himself.",
-      "author": "diksown",
-      "timestamp": "2021-10-28T00:04:41.143174"
+      "content": "제가 트위치의 김정은입니다.",
+      "author": "gravekper"
     },
     {
-      "content": "Tourist runs C++ code on interactive shells.",
-      "author": "diksown",
-      "timestamp": "2021-10-28T00:04:41.143174"
+      "content": "니코니코니.",
+      "author": "gravekper"
     },
     {
-      "content": "There aren't prime numbers. Just numbers that tourist hasn't bothered to factor yet.",
-      "author": "diksown",
-      "timestamp": "2021-10-28T00:04:41.143174"
+      "content": "아니 125kg의 안정적인 승차감 모르세요?",
+      "author": "gravekper"
     },
     {
-      "content": "When tourist hashes strings, there isn't a risk of collision.",
-      "author": "diksown",
-      "timestamp": "2021-10-28T00:04:41.143174"
+      "content": "낙스부터 열어라.",
+      "author": "gravekper"
     },
     {
-      "content": "When tourist wants to make juice, he takes the fruits of segment trees.",
-      "author": "diksown",
-      "timestamp": "2021-10-28T00:04:41.143174"
+      "content": "눈을 감고 다시 뜨면 내 옆에 치야짱이 누워있었으면 좋겠다.",
+      "author": "gravekper"
     },
     {
-      "content": "\"Segment trees\" were actually called \"Whole trees\" before tourist smashed them.",
-      "author": "diksown",
-      "timestamp": "2021-10-28T00:04:41.143174"
+      "content": "내방에서 내가 도배하는데.",
+      "author": "gravekper"
     },
     {
-      "content": "The baby and the giant on the baby-step giant-step algorithm are actually running from tourist.",
-      "author": "diksown",
-      "timestamp": "2021-10-28T00:04:41.143174"
+      "content": "두통약은 두통 사둬야 한다.",
+      "author": "gravekper"
     },
     {
-      "content": "Tourist can overflow bigint data types.",
-      "author": "diksown",
-      "timestamp": "2021-10-28T00:04:41.143174"
+      "content": "두통약은 두톨 먹어야 한다.",
+      "author": "gravekper"
     },
     {
-      "content": "Tourist solved a problem using brainfuck once \u2014 In a Kotlin Heroes contest.",
-      "author": "diksown",
-      "timestamp": "2021-10-28T00:04:41.143174"
+      "content": "시청자들과의 교감은 못하지만 교장은 잘한다.",
+      "author": "gravekper"
     },
     {
-      "content": "Tourist doesn't use sort. He just shakes the array with his own hands until all elements get in the right place.",
-      "author": "diksown",
-      "timestamp": "2021-10-28T00:04:41.143174"
+      "content": "제가 이분들 올킬하겠습니다.",
+      "author": "gravekper"
     },
     {
-      "content": "Tourist always climb up positions in the scoreboard, even if he is already the first \u2014 and the scoreboard is frozen.",
-      "author": "diksown",
-      "timestamp": "2021-10-28T00:04:41.143174"
+      "content": "제가 친구가 많지 않아요. (이브이를 안으며).",
+      "author": "gravekper"
     },
     {
-      "content": "When tourist codes a persistent data structure, it LITERALLY can go back on time.",
-      "author": "diksown",
-      "timestamp": "2021-10-28T00:04:41.143174"
+      "content": "PS는 잘하면 이기는데 하스스톤은 잘해도 못이김.",
+      "author": "gravekper"
     },
     {
-      "content": "Boolean data types can take more than 2 different values if tourist wants them to.",
-      "author": "diksown",
-      "timestamp": "2021-10-28T00:04:41.143174"
+      "content": "묘지기는 모르겠어.",
+      "author": "gravekper"
     },
     {
-      "content": "All algorithms can be done in at most O(N). If they aren't yet, it's just because tourist didn't bother to optimize them.",
-      "author": "diksown",
-      "timestamp": "2021-10-28T00:04:41.143174"
+      "content": "물리준비실에서 삼발이로 커피를 끓이며 한심하다는 표정으로 나를 쳐다보는 후타바 리오가 비커에 따라주는 커피를 얻어마시고 싶다",
+      "author": "gravekper"
     },
     {
-      "content": "Tourist choose his nick because he used to travel to a LOT of cities. And he was always able to choose the optimal path between them.",
-      "author": "diksown",
-      "timestamp": "2021-10-28T00:04:41.143174"
+      "content": "밀러 라빈 소수 판별법과 밀러 라빈 의자를 비교해 줘",
+      "author": "gravekper"
     },
     {
-      "content": "Tourist doesn't think that naming variables are hard.",
-      "author": "diksown",
-      "timestamp": "2021-10-28T00:04:41.143174"
+      "content": "Kubernetes 몇글자 되지도 않는 걸 자꾸 K8s라고 줄여 쓰는게 맘에 안들어서 나도 내 이름을 G7r이라고 줄여 쓰기로 했다.",
+      "author": "G7r"
     },
     {
-      "content": "Tourist compile code by shrinking it with his bare hands.",
-      "author": "diksown",
-      "timestamp": "2021-10-28T00:04:41.143174"
+      "content": "많은 조건 분기드립니다",
+      "author": "gravekper"
     },
     {
-      "content": "Tourist doesn't use doubles. He uses triples, a float-type with no loss of precision.",
-      "author": "diksown",
-      "timestamp": "2021-10-28T00:04:41.143174"
+      "content": "오늘 전역인데 저녁 뭐먹지",
+      "author": "gravekper"
     },
     {
-      "content": "Tourist can make floats sink by looking at them.",
-      "author": "diksown",
-      "timestamp": "2021-10-28T00:04:41.143174"
+      "content": "나는 라이츄를 정말 좋아한다. 진화하지 않았다면 최고의 인기를 누리며 계속 살아갈 수 있었을 것이다. 그들은 각자의 목적을 위해 천둥의 돌에 손을 댔다. 그 과정에서 소중히 여기던 인기와 목소리를 버렸다.",
+      "author": "gravekper"
     },
     {
-      "content": "When born, instead of crying, tourist spelled source code in Delphi. The doctor's response was \"Accepted\"",
-      "author": "diksown",
-      "timestamp": "2021-10-28T00:04:41.143174"
+      "content": "PS 커뮤니티 3대 취미가 리듬게임, 메이플스토리, 애니메이션 감상이라는 것은 잘 알려진 사실입니다. 위 세가지를 잘 할수록 Codeforces나 Solved 레이팅이 높다는 것도 Proof by AC 기법으로 증명되었습니다.",
+      "author": "gravekper"
     },
     {
-      "content": "Tourist can count to 2^64. On his fingers.",
-      "author": "diksown",
-      "timestamp": "2021-10-28T00:04:41.143174"
+      "content": "포커는 처음 해 봐요. 발라트로는 많이 해봤어요.",
+      "author": "gravekper"
     },
     {
-      "content": "Tourist has binary trees, fenwick trees and link cut trees growing on his garden.",
-      "author": "diksown",
-      "timestamp": "2021-10-28T00:04:41.143174"
+      "content": "발라트로에서 점수 높은 패가 센 거 맞죠?",
+      "author": "gravekper"
     },
     {
-      "content": "Tourist doesn't need a stop condition on his recursive algorithms. They stop when he wants them to.",
-      "author": "diksown",
-      "timestamp": "2021-10-28T00:04:41.143174"
+      "content": "지구 나이가 2024살인데, 나는 이제 고작 31년 살았으니 아직 어리다고 해도 되지?",
+      "author": "gravekper"
     },
     {
-      "content": "Tourist's phone number, when converted to binary, is actually a compiled C++ code of an FFT implementation.",
-      "author": "diksown",
-      "timestamp": "2021-10-28T00:04:41.143174"
+      "content": "방송 컨셉은 '마주칠 때마다 수학 문제를 권유하는 MATH가키' 입니다.",
+      "author": "gravekper"
     },
     {
-      "content": "Tourist can do both range queries and range updates in O(1)",
-      "author": "diksown",
-      "timestamp": "2021-10-28T00:04:41.143174"
+      "content": "정수의 집합은 유한집합이다. 유리수도 그렇다.",
+      "author": "gravekper"
     },
     {
-      "content": "Tourist can code a segment tree in HTML.",
-      "author": "diksown",
-      "timestamp": "2021-10-28T00:04:41.143174"
+      "content": "곱셈은 교환법칙이 성립하지 않는다.",
+      "author": "gravekper"
     },
     {
-      "content": "Tourist eats meals in hash tables.",
-      "author": "diksown",
-      "timestamp": "2021-10-28T00:04:41.143174"
+      "content": "아니 걸즈밴드물은 좀 너무 오타쿠같잖음. 나 오타쿠 아닌데",
+      "author": "gravekper"
     },
     {
-      "content": "Tourist knows the Lowest Common Ancestor of any pair of people.",
-      "author": "diksown",
-      "timestamp": "2021-10-28T00:04:41.143174"
+      "content": "방송 컨셉은 '마주칠 때마다 수학 문제를 권유하는 MATH가키' 입니다.",
+      "author": "gravekper"
     },
     {
-      "content": "Tourist doesn't know the \"Heavy-Light Decomposition\". He calls it \"Light-Lighter Decomposition\".",
-      "author": "diksown",
-      "timestamp": "2021-10-28T00:04:41.143174"
+      "content": "둠이 돌아가면 컴퓨터고 치즈 케이크 레시피를 바로 말하지 못하면 사람이지?",
+      "author": "gravekper"
     },
     {
-      "content": "Tourist knows the Nim value of any chess position.",
-      "author": "diksown",
-      "timestamp": "2021-10-28T00:04:41.143174"
+      "content": "코마리는 지금쯤 어떤 수도꼭지에서 물을 마실까?",
+      "author": "gravekper"
     },
     {
-      "content": "Tourist can hear programming languages. From computers. Turned off.",
-      "author": "diksown",
-      "timestamp": "2021-10-28T00:04:41.143174"
-    },
-    {
-      "content": "Bugs are afraid of tourist.",
-      "author": "diksown",
-      "timestamp": "2021-10-28T00:04:41.143174"
-    },
-    {
-      "content": "Tourist can sort an array in constant time.",
-      "author": "Divyanshu-1",
-      "timestamp": "2021-10-28T02:59:19.414384"
-    },
-    {
-      "content": "Tourist can solve N<=1e5 problems in O(N^2).",
-      "author": "Malhe1ros",
-      "timestamp": "2021-10-28T03:07:22.307789"
-    },
-    {
-      "content": "Tourist doesn't read the statements, he looks at the sample test cases and instantly knows what to do.",
-      "author": "Malhe1ros",
-      "timestamp": "2021-10-28T03:07:22.307789"
-    },
-    {
-      "content": "Tourist can use MO for online queries.",
-      "author": "Malhe1ros",
-      "timestamp": "2021-10-28T03:07:22.307789"
-    },
-    {
-      "content": "Tourist coded the program for evolution once, and the rest is history.",
-      "author": "Mastan1301",
-      "timestamp": "2021-10-28T03:10:02.976218"
-    },
-    {
-      "content": "Tourist can solve two pointers problems with only one pointer.",
-      "author": "Malhe1ros",
-      "timestamp": "2021-10-28T03:18:46.141537"
-    },
-    {
-      "content": "Tourist's Fourier Transform isn't fast, it's immediate.",
-      "author": "Malhe1ros",
-      "timestamp": "2021-10-28T03:19:43.194058"
-    },
-    {
-      "content": "Tourist doesn't need to divide to conquer.",
-      "author": "Malhe1ros",
-      "timestamp": "2021-10-28T03:26:56.870932"
-    },
-    {
-      "content": "When tourist takes educational rounds, the problemsetters learn from him.",
-      "author": "bucketpotato01",
-      "timestamp": "2021-10-28T11:25:26.991376"
-    },
-    {
-      "content": "Tourist doesn't need to binary search to find the optimal answer. He already knows where it is.",
-      "author": "Dragonado",
-      "timestamp": "2021-10-28T11:28:17.483095"
-    },
-    {
-      "content": "Tourist can do binary lifting in cyclic graphs.",
-      "author": "Dragonado",
-      "timestamp": "2021-10-28T11:28:17.483095"
-    },
-    {
-      "content": "Tourist's favourite music is segment tree beats.",
-      "author": "agrayush13",
-      "timestamp": "2021-10-28T12:02:03.410741"
-    },
-    {
-      "content": "Once tourist wrote a solution so fast it got the verdict: SLE, Speed Limit Exceeded.",
-      "author": "mshiladityam",
-      "timestamp": "2021-10-28T12:03:13.911277"
-    },
-    {
-      "content": "Tourist can balance a real tree.",
-      "author": "hydroshiba",
-      "timestamp": "2021-10-28T12:05:58.074992"
-    },
-    {
-      "content": "If tourist doesn't have the highest score in a contest, don't let yourself be fooled. His unsigned int score has just overflowed.",
-      "author": "AlexandruHurjui12",
-      "timestamp": "2021-10-28T12:08:24.289194"
-    },
-    {
-      "content": "Tourist doesn't even need a keyboard to write code. The code writes itself, under the force of tourist's mind.",
-      "author": "AlexandruHurjui12",
-      "timestamp": "2021-10-28T12:08:24.289194"
-    },
-    {
-      "content": "Authors panic about the correctness of their model solutions when tourist gets WA.",
-      "author": "bitstack343",
-      "timestamp": "2021-10-28T12:27:39.654465"
-    },
-    {
-      "content": "When tourist submits an incorrect solution, the problemsetters get WA.",
-      "author": "Lol-Key",
-      "timestamp": "2021-10-28T14:34:53.227725"
-    },
-    {
-      "content": "For tourist, NP-Hard stands for No Problem is Hard.",
-      "author": "007vedant",
-      "timestamp": "2021-10-28T16:45:04.705403"
-    },
-    {
-      "content": "Tourist codes so fast, his typing speed gets integer overflow.",
-      "author": "007vedant",
-      "timestamp": "2021-10-28T16:45:04.705403"
-    },
-    {
-      "content": "Tourist never watched fast and furious. He watched fast and fourier instead.",
-      "author": "EnDeRGeaT",
-      "timestamp": "2021-10-28T17:17:57.117039"
-    },
-    {
-      "content": "Tourist can do binary search without sorting an array.",
-      "author": "EnDeRGeaT",
-      "timestamp": "2021-10-28T17:18:14.833889"
-    },
-    {
-      "content": "If Tourist loses something, he finds it in logarithmic time.",
-      "author": "EnDeRGeaT",
-      "timestamp": "2021-10-28T17:19:51.512042"
-    },
-    {
-      "content": "A famous website had its name in the singular until tourist submitted a divide and conquer code on it. It is now called Codeforces.",
-      "author": "viniciuscabessa",
-      "timestamp": "2021-10-29T01:36:10.763860"
-    },
-    {
-      "content": "Tourist never needs a plumber. He just runs the max-flow algorithm on it.",
-      "author": "Spheniscine",
-      "timestamp": "2021-10-29T10:58:04.043996"
-    },
-    {
-      "content": "Tourist can code a deterministic quicksort with no quadratic cases.",
-      "author": "Spheniscine",
-      "timestamp": "2021-10-29T10:58:04.043996"
-    },
-    {
-      "content": "Tourist used FFT to multiply numbers in grade school.",
-      "author": "Spheniscine",
-      "timestamp": "2021-10-29T10:58:04.043996"
-    },
-    {
-      "content": "Tourist never gets the Memory Limit Exceeded verdict, as his submissions use his own brain for storage space.",
-      "author": "Spheniscine",
-      "timestamp": "2021-10-29T10:58:04.043996"
-    },
-    {
-      "content": "Tourist can divide by zero.",
-      "author": "Spheniscine",
-      "timestamp": "2021-10-29T10:58:04.043996"
-    },
-    {
-      "content": "Tourist always computes the full answer for combinatorial problems before reducing it by modulo.",
-      "author": "Spheniscine",
-      "timestamp": "2021-10-29T10:58:04.043996"
-    },
-    {
-      "content": "Organizers send first prize to tourist even before conducting the contest.",
-      "author": "priyanshu003",
-      "timestamp": "2021-10-29T10:59:59.475352"
-    },
-    {
-      "content": "tourist can write one solution that can get an AC on every algorithmic problem existed.",
-      "author": "priyanshu003",
-      "timestamp": "2021-10-29T11:00:17.330849"
-    },
-    {
-      "content": "Tourist solves interactive problems. Offline.",
-      "author": "SecondThread",
-      "timestamp": "2021-10-29T21:39:29.781891"
-    },
-    {
-      "content": "The only thing tourist doesn't know is what it feels like to press the backspace key.",
-      "author": "SecondThread",
-      "timestamp": "2021-10-29T21:39:29.781891"
-    },
-    {
-      "content": "When tourist is bored, he occasionally solves the problems from hardest to easiest. And once he's done that, sometimes he reads the problem statements too.",
-      "author": "SecondThread",
-      "timestamp": "2021-10-29T21:39:29.781891"
-    },
-    {
-      "content": "Tourist is rainboy's alt.",
-      "author": "SecondThread",
-      "timestamp": "2021-10-29T21:39:29.781891"
-    },
-    {
-      "content": "Tourist's code doesn't even need a first thread to run in time; it simply compiles itself into the correct output using preprocessor commands.",
-      "author": "SecondThread",
-      "timestamp": "2021-10-29T21:39:29.781891"
-    },
-    {
-      "content": "They used to call him the traveling salesman. Now they just call him 'tourist'.",
-      "author": "SecondThread",
-      "timestamp": "2021-10-29T21:39:29.781891"
-    },
-    {
-      "content": "Tourist doesn't check his code on the sample cases, he checks the sample cases on his code.",
-      "author": "GabrielDWu",
-      "timestamp": "2021-10-31T10:51:20.373793"
-    },
-    {
-      "content": "The time limit to a problem isn't the amount of time it takes Tourist's solution to run, its the time it takes for him to finish coding.",
-      "author": "GabrielDWu",
-      "timestamp": "2021-10-31T10:51:20.373793"
-    },
-    {
-      "content": "g++ -O4 sends your code to tourist for rewrite.",
-      "author": "jonathanirvings",
-      "timestamp": "2022-03-11T12:16:56.802698"
-    },
-    {
-      "content": "When tourist was a contestant at IOI he didn't have an \"I want more food\" sign, but an \"I want more problems\" sign.",
-      "author": "LaviniaTornaghi",
-      "timestamp": "2023-05-11T05:29:33.084356"
-    },
-    {
-      "content": "Tourist solves problems in O(1/n).",
-      "author": "YuldShah",
-      "timestamp": "2024-09-07T19:54:47.751053"
-    },
-    {
-      "content": "Tourist doesn't need version control. Git commits to him.",
-      "author": "YuldShah",
-      "timestamp": "2024-09-07T19:54:47.751053"
-    },
-    {
-      "content": "Upon hitting 4000 rating, Tourist proved that P = NP, but kept it secret because it would make the contests too easy for everyone else.",
-      "author": "YuldShah",
-      "timestamp": "2024-09-07T19:54:47.751053"
-    },
-    {
-      "content": "Tourist was once so bored that he decided to optimize the Santa's gift delivery algorithm to visit multiple parallel universes at a time.",
-      "author": "YuldShah",
-      "timestamp": "2024-09-07T19:54:47.751053"
-    },
-    {
-      "content": "Codeforces didn't give Tourist 4000 rating, Tourist gave Codeforces the honor of displaying his true power level.",
-      "author": "YuldShah",
-      "timestamp": "2024-09-07T19:54:47.751053"
-    },
-    {
-      "content": "Tourist's \"Hello World\" program solved NP-complete problems.",
-      "author": "YuldShah",
-      "timestamp": "2024-09-07T19:54:47.751053"
+      "content": "사람을 AI 모델에 비유하여 '너는 GPT같고 저 사람은 제미나이 같다' 라고 말하는 것은 '인간에 약간 못 미치는 유사한 것'에 비유한다는 점에서 '너는 침팬지 같고 저 사람은 고릴라 같다' 라고 말하는 것과 비슷하다고 생각해 버렸다",
+      "author": "gravekper"
     }
   ]
 }
