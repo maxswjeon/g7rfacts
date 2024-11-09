@@ -1,5 +1,6 @@
 @import url("https://fonts.googleapis.com/css2?family=PT+Serif");
 @import url("https://fonts.googleapis.com/css2?family=Noto+Sans");
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+KR:wght@400;500&family=Noto+Serif+KR:wght@200..900&display=swap');
 
 :root {
   --bg-color: #222222;
@@ -67,6 +68,7 @@ i {
 
 .fact {
   margin: 10px 0;
+  font-family: "Noto Serif KR", serif;
 }
 
 .description {
